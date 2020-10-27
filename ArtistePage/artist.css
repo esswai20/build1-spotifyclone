@@ -1,0 +1,32 @@
+.sidenav{
+    background-color: black;
+    height: 80vh;
+    
+   
+}
+.fa-home{
+    color:white;
+}
+.fa-search{
+    color:white;
+}
+.footer{
+    width: auto;
+    background-color: rgb(104, 102, 102);
+
+}
+.info-text{
+    font-size: medium;
+    
+    color: white;
+}
+.fa{
+    margin-right: 10px;
+}
+.container-fluid{
+    padding: 0 0 0 0;
+}
+.align-items-center{
+    display: flex;
+    justify-content: center;
+}
